@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1776232334343,
+    "title": "The Journey of Learning Web Development",
+    "content": "Learning web development is not just about writing code, it is about building something meaningful from scratch. When I first started, everything felt confusing — HTML tags, CSS styling, JavaScript logic — it all seemed overwhelming. But slowly, step by step, things started to make sense.\r\n\r\nAt the beginning, I focused on understanding the basics. HTML helped me structure the content of a webpage, CSS made it look visually appealing, and JavaScript brought life to the page with interactivity. Even small things like centering a div or handling a button click felt like big achievements.\r\n\r\nAs I progressed, I moved into backend development using Node.js and Express. This was where things became more interesting. Instead of just designing pages, I could now handle data, create routes, and build full applications. I learned how requests and responses work, how servers communicate with browsers, and how data flows in an application.\r\n\r\nOne of the most exciting parts was building a blog application. It allowed me to create, read, update, and delete posts. I also learned how to store data in JSON files and dynamically display it on the webpage. Debugging errors became a regular part of my journey, but each error taught me something new.\r\n\r\nThere were moments of frustration when things didn’t work as expected. Sometimes the problem was a small typo, other times it was a logic issue. But solving those problems gave me confidence and improved my understanding. I realized that coding is not about knowing everything, but about learning how to solve problems.\r\n\r\nNow, I see web development as a continuous journey. There is always something new to learn — better design, cleaner code, improved performance, and new technologies. The more I practice, the more comfortable I become.\r\n\r\nIn the end, web development is not just a skill, it is a mindset. It teaches patience, problem-solving, and creativity. And the best part is seeing your ideas come to life on the screen.",
+    "author": "Tajul",
+    "createdAt": 1776232334343
+  },
+  {
+    "id": 1776231774289,
+    "title": "Building a Blog App",
+    "content": "Today I created a blog app where I can add, edit, and delete posts. It uses Express and stores data in a JSON file.",
+    "author": "Rahul",
+    "createdAt": 1776231774289
+  },
+  {
+    "id": 1776231555625,
+    "title": "Web Development Journey",
+    "content": "I started learning web development recently. HTML, CSS, and JavaScript are the core technologies. Now I am exploring backend.",
+    "author": "Sam",
+    "createdAt": 1776231555625
+  },
+  {
+    "id": 1776231278131,
+    "title": "food",
+    "content": "food is life",
+    "author": "AK",
+    "createdAt": 1776231278131
+  },
+  {
+    "id": 1776230645425,
+    "title": "Learning JavaScript",
+    "content": "JavaScript is a powerful language used for both frontend and backend development. I am practicing daily to improve my skills.",
+    "author": "Alex",
+    "createdAt": 1776230645425
+  }
+]

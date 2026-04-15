@@ -1,0 +1,70 @@
+*{
+   
+    color: white;
+}
+body{
+ background-image: url("/images/Home.jpg");
+ width:1510px ;
+ height: 640px;
+ background-size: cover;
+ background-repeat: no-repeat;
+ overflow: hidden;
+ background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+}
+
+.navigation{
+  position: absolute;
+  width: 330px;
+  height: 600px;
+  top: 300px;
+ right: 100px;
+ bottom: 0;
+
+ 
+}
+hr{
+  margin: 0;
+  padding: 0;
+}
+.navigation>a{
+  display: block;
+  padding: 5px;
+  font-size: 25px;
+  text-decoration: none;
+  text-align: right;
+}
+.navigation>a>button{
+  margin-top: 50px;
+  margin-right: 40px;
+  width: 200px;
+  height: 40px;
+  border-radius: 8px;
+  font-size: 25px;
+  background-color: aqua;
+  color: black;
+  font-family: "Audiowide",sans-serif;
+}
+
+.introduction{
+  position: absolute;
+  top: 150px;
+  left: 10px;
+  width: 500px;
+}
+.introduction>h1{
+  font-size: 50px;
+  font-family: "Audiowide",sans-serif;
+}
+.introduction>a{
+  padding-right: 20px;
+}
+.introduction>p{
+  font-size: 25px;
+
+}
+
+.introduction>a>svg{
+  width: 25px;
+}
