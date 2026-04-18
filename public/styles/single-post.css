@@ -10,7 +10,7 @@ body{
     color: white;
 }
 
-/* 📦 Main container (similar to view-container) */
+
 #single-container{
     width: 1500px;
     margin: 20px 0 0 20px;
@@ -19,14 +19,14 @@ body{
     border-radius: 5px;
 }
 
-/* 🧱 Inner box (like each blog card) */
+
 #single-container .post{
     border: 2px solid rgb(160, 159, 159);
     border-radius: 5px;
     padding: 20px;
 }
 
-/* 📝 Title */
+
 #single-container h1{
     text-decoration: underline;
     padding: 10px 0;

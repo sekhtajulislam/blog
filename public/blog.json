@@ -21,13 +21,6 @@
     "createdAt": 1776231555625
   },
   {
-    "id": 1776231278131,
-    "title": "food",
-    "content": "food is life",
-    "author": "AK",
-    "createdAt": 1776231278131
-  },
-  {
     "id": 1776230645425,
     "title": "Learning JavaScript",
     "content": "JavaScript is a powerful language used for both frontend and backend development. I am practicing daily to improve my skills.",
